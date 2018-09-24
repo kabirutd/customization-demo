@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/dm/ag-grid.svg)](https://www.npmjs.com/package/ag-grid)
 [![npm](https://img.shields.io/npm/dt/ag-grid.svg)](https://www.npmjs.com/package/ag-grid)
 
-Demo of React Grid Component integration into a React project
+Demo of React Grid Component customization with custom filtering logic, cell renderer and cell editor
 ------
 
 [Get started in 5 minutes](https://medium.com/ag-grid/get-started-with-react-grid-in-5-minutes-f6e5fb16afa)
