@@ -1,11 +1,11 @@
 {
-    "name": "ag-grid-react-integration-demo",
+    "name": "ag-grid-react-customization-demo",
     "version": "1.0.0",
-    "description": "It's a 5 minute get-started guide with examples that you can copy/paste and hit the ground running. Once the basic setup is ready, I'll show you a few features and corresponding configuration options.",
-    "homepage": "https://react.ag-grid.com",
+    "description": "It's a 10 minute guide with examples that shows how to customize ag-Grid. I'll show you how to implement and integrate custom filtering logic, cell editor and celll renderer.",
+    "homepage": "https://react-grid.ag-grid.com",
     "repository": {
         "type": "git",
-        "url": "https://github.com/react-datagrid/integration-demo.git"
+        "url": "https://github.com/react-datagrid/customization-demo.git"
     },
     "author": "Max Koretskyi <max.koretskyi@ag-grid.com>",
     "license": "MIT",
